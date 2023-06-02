@@ -1,0 +1,9 @@
+{
+    "name": "tflite-micro",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "remoteUser": "vscode",
+    "runArgs": [],
+    "workspaceFolder": "/workspaces"
+}
